@@ -1,2 +1,2 @@
-# poe2-item-estimator
-Poe2-item-estimator
+# Path of Exile 2 Item Estimator
+
